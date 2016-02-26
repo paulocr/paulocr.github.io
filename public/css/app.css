@@ -1,0 +1,11 @@
+img#logo {
+	float:left;
+}
+
+h3#titulo {
+	float: left;
+}
+
+.header {
+	margin-bottom: 200px;
+}
